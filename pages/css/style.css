@@ -1,0 +1,20 @@
+body{
+    background-color: #b886b9;
+}
+
+label{
+    border-radius: 75px;
+}
+.center input { 
+    border-radius: 32px;
+    padding:1% 2% 1% ;
+    margin: 1% 20%;
+    border-color: blueviolet;
+}
+
+.center textarea{
+    border-radius: 32px;
+    padding:1% 2% 1% ;
+    margin: 1% 20%;
+    border-color: blueviolet;   
+}
