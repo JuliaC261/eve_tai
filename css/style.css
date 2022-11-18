@@ -1014,3 +1014,54 @@ button {
 .copyright_text a:hover {
     color: #e27141;
 }
+
+/* msg start */
+
+.big_box {
+    padding: 10%;
+}
+
+.big_box2 {
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.msg_box {
+    width: 100%;
+    border: 1px solid #6e6e6e;
+    border-radius: 25px;
+    padding: 20px 30px;
+    display: flex;
+    margin-top: 90px !important;
+    float: left;
+}
+
+.msg_text {
+    width: 100%;
+    font-size: 40px;
+    color: #1f1f1f;
+    font-weight: bold;
+    padding-bottom: 0px;
+}
+
+.msg_bt {
+    width: 200px;
+    padding-top: 6px;
+}
+
+.msg_bt a {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #2e5b72;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.msg_bt a:hover {
+    background-color: #000d10;
+    color: #ffffff;
+}
