@@ -6,6 +6,8 @@
 - [ ] Conexão
 - [ ] Tela de Mensagens (contato)
 
-> ## Opcional: 
+> ### Opcional: 
 
 - [ ] Enviar foto para perfil ou na hora de enviar uma mensagem.
+
+> ### Backup na pasta "Backup"
